@@ -1,8 +1,8 @@
 name: flutter_bluno
 description: Easy package to connect Bluno with Flutter application
 version: 0.0.1
-author:
-homepage:
+author: Pierrick Guilloux<guilloux@et.esiea.fr>
+homepage: https://github.com/devgnrb/flutter_bluno
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
